@@ -1,0 +1,11947 @@
+LWSC
+3
+
+RenderRangeType 0
+FirstFrame 0
+LastFrame 1574
+FrameStep 1
+RenderRangeArbitrary 1-60
+PreviewFirstFrame 0
+PreviewLastFrame 1600
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 30
+
+LoadObjectLayer 1 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 69.973747 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000012
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 2 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 39.989792 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.2030349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000016
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 3 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 4 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005e
+
+LoadObjectLayer 5 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 54.020302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.1961448 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 6 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000004
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 7 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 69.900154 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.2138369 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+ShadowOptions 7
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 8 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 9 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005c
+
+LoadObjectLayer 10 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005c
+
+LoadObjectLayer 11 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+LoadObjectLayer 12 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Null1
+ShowObject 0 3
+ItemActive 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -150.86754 0 0 0 0 0 0 268.2485 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 6
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Null Hab Ring
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0.07359314 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.2138369 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key -0.38397244 0 0 0 0 0 0 6.6671228 0
+  Key 6.283185 53.299999 0 0 0 0 12.558517 0 0
+  Key 12.182398 53.333332 0 0 0 0 6.2312579 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 40
+ParentItem 10000012
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Null Orbit
+ShowObject 0 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -90.572746 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 6.2831521 0
+  Key 6.283185 53.299999 0 0 0 0 6.2831521 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Null Solar
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -54.020302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.1961448 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 3.7542036 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 40
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AddNullObject Null Dish
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -39.989792 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.2030349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.55676013 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 47
+ParentItem 10000000
+ShadowOptions 7
+ExcludeLight 20000004
+ExcludeLight 20000005
+ExcludeLight 20000003
+ExcludeLight 20000002
+ExcludeLight 20000006
+ExcludeLight 20000007
+ExcludeLight 20000008
+ExcludeLight 20000009
+ExcludeLight 2000000a
+ExcludeLight 2000000b
+ExcludeLight 2000000c
+ExcludeLight 2000000d
+ExcludeLight 2000000e
+ExcludeLight 2000000f
+ExcludeLight 20000010
+ExcludeLight 20000011
+ExcludeLight 20000012
+ExcludeLight 20000013
+ExcludeLight 20000014
+ExcludeLight 20000015
+ExcludeLight 20000016
+ExcludeLight 20000017
+ExcludeLight 20000018
+ExcludeLight 20000019
+ExcludeLight 2000001a
+ExcludeLight 2000001b
+ExcludeLight 2000001c
+ExcludeLight 2000001d
+ExcludeLight 2000001e
+ExcludeLight 2000001f
+ExcludeLight 20000020
+ExcludeLight 20000021
+ExcludeLight 20000022
+ExcludeLight 20000023
+ExcludeLight 20000024
+ExcludeLight 20000025
+ExcludeLight 20000026
+ExcludeLight 20000027
+ExcludeLight 20000028
+ExcludeLight 20000029
+ExcludeLight 2000002a
+ExcludeLight 2000002b
+ExcludeLight 2000002c
+ExcludeLight 2000002d
+ExcludeLight 2000002e
+ExcludeLight 2000002f
+ExcludeLight 20000030
+ExcludeLight 20000031
+ExcludeLight 20000032
+ExcludeLight 20000033
+ExcludeLight 20000034
+ExcludeLight 20000035
+ExcludeLight 20000036
+ExcludeLight 20000037
+ExcludeLight 20000038
+ExcludeLight 20000039
+ExcludeLight 2000003a
+ExcludeLight 2000003c
+ExcludeLight 2000003d
+ExcludeLight 2000003e
+ExcludeLight 2000003f
+ExcludeLight 20000040
+ExcludeLight 20000041
+ExcludeLight 20000042
+ExcludeLight 20000043
+ExcludeLight 20000044
+ExcludeLight 20000045
+ExcludeLight 20000046
+ExcludeLight 20000047
+ExcludeLight 20000048
+ExcludeLight 20000049
+ExcludeLight 2000004a
+ExcludeLight 2000004b
+ExcludeLight 2000004c
+ExcludeLight 2000004d
+ExcludeLight 2000004e
+ExcludeLight 2000004f
+ExcludeLight 20000050
+ExcludeLight 20000051
+ExcludeLight 20000052
+ExcludeLight 20000053
+ExcludeLight 20000054
+ExcludeLight 20000055
+ExcludeLight 20000056
+ExcludeLight 20000057
+ExcludeLight 20000058
+ExcludeLight 20000059
+ExcludeLight 2000005a
+ExcludeLight 2000005b
+ExcludeLight 2000003b
+ExcludeLight 2000005d
+ExcludeLight 2000005c
+ExcludeLight 2000005e
+
+AmbientColor 1 1 1
+AmbientIntensity 0.05
+
+AddLight
+LightName Light
+ShowLight 0 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.0706711 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 195.5 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -255.15204 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.28099805 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.71907568 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 1.5
+AffectCaustics 1
+LightType 0
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Light2
+ShowLight 0 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -264.39752 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -32.5 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 227.64432 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -3.5011296 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.16057029 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 0.5
+LightType 0
+ShadowType 0
+
+AddLight
+LightName Point Blue1
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7316132 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -7.6925435 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 13.409507 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Blue2
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7641144 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.9039459 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 5.0075774 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Blue3
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6268616 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -7.9977727 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 13.22288 0 0 0 0 0 0 -0.044340692 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Blue4
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6307831 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.269619 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 4.7784233 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red1
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.5856104 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -7.4182515 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 13.567429 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red2
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.561615 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.7662952 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 5.1035051 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red3
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7059326 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -7.1068206 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 13.689503 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red4
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7006226 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.428277 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 5.2807369 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue5
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6254578 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.9148936 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -13.23767 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue6
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6716614 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.2328756 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -4.802032 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue7
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.8087158 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.5783834 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -13.408547 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue8
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7839661 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.8943412 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -4.9923072 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red5
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.567276 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.4559603 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -13.502938 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red6
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.578186 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.7416964 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -5.0913477 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red7
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.8260803 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.0759277 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -13.724747 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red8
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7994995 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.3426859 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -5.3082299 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue9
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6805701 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -13.206685 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -8.0050993 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue10
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.5469818 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -5.1091447 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2.7426624 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue11
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.8074799 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -13.424588 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -7.6531529 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue12
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7899475 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -5.0142021 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2.8982778 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red9
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.5806885 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -13.513142 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -7.4517512 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red10
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6413727 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -4.7914281 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.2806292 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red11
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.6872406 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -13.737808 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -7.0570312 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red12
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7250214 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -5.3084745 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2.3528721 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue13
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6777496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 13.209856 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 8.0079174 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue14
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.6606903 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 4.7772155 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.3139558 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue15
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7918549 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 13.420035 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 7.6226578 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue16
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.7929382 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 4.980176 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 2.9129291 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red13
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.5336456 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 13.510259 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 7.4445353 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red14
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -3.5423584 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.097476 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 2.7261362 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red15
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.699585 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 13.717465 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 7.0791683 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red16
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -5.6729889 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.2751808 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 2.3706746 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red17
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -17.542969 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.73348022 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 4.9715128 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red18
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -27.408287 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.73348022 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 4.9714999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red19
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -17.542999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.73348022 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -4.9714999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red20
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -27.4083 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.73348022 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -4.9714999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue17
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.2884457 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -24.604076 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue18
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.8764133 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -24.295204 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue19
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 10.481155 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -22.272074 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue20
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 15.723672 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -19.037848 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue21
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 24.583216 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2.2776346 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue22
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 24.277849 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.8944888 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue23
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 22.244089 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 10.476881 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue24
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 19.023012 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 15.71669 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue25
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.2663603 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 24.59667 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue26
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.9057117 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 24.277691 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue27
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -10.492178 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 22.25522 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue28
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -15.73669 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 19.047659 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue29
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -24.613657 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 2.3068068 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue30
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -24.320578 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.8930616 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue31
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6736767 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -22.268803 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -10.478797 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue32
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.6737001 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -19.073322 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -15.741966 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red21
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0.0043029785 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -0.099026091 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 1.4750074 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red22
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0.0043029999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -0.099026099 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -1.7191336 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red23
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -61.101074 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.2263301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -1.6389445 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red24
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -61.101101 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.2263301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 1.6834325 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red25
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -86.634491 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.2263301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -1.685275 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red26
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -86.634499 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0.2263301 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 1.6595312 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.61261094 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -3.1415925 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red27
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.81735 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.4967017 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red28
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.80496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.3565531 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.7236097 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red29
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.80496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 1.0638884 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.7236104 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red30
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.80502 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -1.0886303 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red31
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.80496 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 1.0638888 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.7359805 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red32
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -153.80493 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.3565545 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.7359812 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red33
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -168.91226 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 4.0205092 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -0.56601286 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 5
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red34
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -168.91229 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.9203024 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0.44300655 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 5
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red35
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -168.91968 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.640753 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0.77618402 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 5
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red36
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -168.91969 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.6263955 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -0.83499765 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 5
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue33
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7015228 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -2.2915535 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -24.605347 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue34
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.8722911 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -24.30125 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue35
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 10.486566 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -22.272867 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue36
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 15.717406 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -19.045057 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue37
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 24.588478 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -2.2835774 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue38
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 24.286968 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.8969784 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue39
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 22.256533 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 10.471121 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue40
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 19.031967 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 15.720969 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue41
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.2642765 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 24.588579 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue42
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.8986022 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 24.271458 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue43
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -10.486472 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 22.246849 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue44
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -15.734443 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 19.045799 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue45
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -24.600183 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 2.3016064 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue46
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -24.314264 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.8966298 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue47
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -22.256371 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -10.482431 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Blue48
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -6.7014999 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -19.061146 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -15.744134 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.38397241 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+LightColor 0 0 1
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.3
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red37
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.93512 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 7.4996557 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red38
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.93106 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.3201537 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.7092152 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red39
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.931 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 1.0559083 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -3.7092149 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red40
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.91748 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -1.0829829 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red41
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.931 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 1.0559083 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.7227521 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Point Light Red42
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -157.91754 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 5.3472266 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 3.7362897 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 0 0
+LightIntensity 0.5
+LightType 1
+LightFalloffType 1
+LightRange 1
+LensFlare 1
+FlareIntensity 0.2
+FlareNominalDistance 10
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 41
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Nav1
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -27.593025 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -4.795804 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 1 1
+LightIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.75 0.050000001 0
+  Key 0.80000001 0.53333336 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.60000002 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.63333333 0 0 0 0 -0.40000001 -0.40000001 0
+  Key 0 0.66666669 0 0 0 0 0.40000001 0.40000001 0
+  Key 0.80000001 0.69999999 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.76666665 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.80000001 0 0 0 0 -0.021621622 -0.77837837 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+LightType 1
+LensFlare 1
+FlareIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.46875 0.03125 0
+  Key 0.5 0.53333336 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.60000002 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.63333333 0 0 0 0 -0.25 -0.25 0
+  Key 0 0.66666669 0 0 0 0 0.25 0.25 0
+  Key 0.5 0.69999999 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.76666665 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.80000001 0 0 0 0 -0.013513514 -0.48648649 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 555
+FlareRingColor 0.3137 0.0784 0.0392
+FlareRingSize 0.22
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Nav2
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -92.818962 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -12.48702 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 1 1
+LightIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.75 0.050000001 0
+  Key 0.80000001 0.53333336 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.60000002 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.63333333 0 0 0 0 -0.40000001 -0.40000001 0
+  Key 0 0.66666669 0 0 0 0 0.40000001 0.40000001 0
+  Key 0.80000001 0.69999999 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.76666665 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.80000001 0 0 0 0 -0.021621622 -0.77837837 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+LightType 1
+LensFlare 1
+FlareIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.46875 0.03125 0
+  Key 0.5 0.53333336 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.60000002 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.63333333 0 0 0 0 -0.25 -0.25 0
+  Key 0 0.66666669 0 0 0 0 0.25 0.25 0
+  Key 0.5 0.69999999 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.76666665 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.80000001 0 0 0 0 -0.013513514 -0.48648649 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 555
+FlareRingColor 0.3137 0.0784 0.0392
+FlareRingSize 0.22
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddLight
+LightName Nav3
+ShowLight 1 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -92.809227 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 18.928043 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+LightColor 1 1 1
+LightIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.75 0.050000001 0
+  Key 0.80000001 0.53333336 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.60000002 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.63333333 0 0 0 0 -0.40000001 -0.40000001 0
+  Key 0 0.66666669 0 0 0 0 0.40000001 0.40000001 0
+  Key 0.80000001 0.69999999 0 0 0 0 0.26666668 0.53333336 0
+  Key 0.80000001 0.76666665 0 0 0 0 -0.53333336 -0.26666668 0
+  Key 0 0.80000001 0 0 0 0 -0.021621622 -0.77837837 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+LightType 1
+LensFlare 1
+FlareIntensity (envelope)
+{ Envelope
+  10
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 0.5 0 0 0 0 0.46875 0.03125 0
+  Key 0.5 0.53333336 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.60000002 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.63333333 0 0 0 0 -0.25 -0.25 0
+  Key 0 0.66666669 0 0 0 0 0.25 0.25 0
+  Key 0.5 0.69999999 0 0 0 0 0.16666667 0.33333334 0
+  Key 0.5 0.76666665 0 0 0 0 -0.33333334 -0.16666667 0
+  Key 0 0.80000001 0 0 0 0 -0.013513514 -0.48648649 0
+  Key 0 2 0 0 0 0 0 0 0
+  Behaviors 1 2
+}
+FlareNominalDistance 20
+FlareDissolve 0
+LensFlareFade 14
+LensFlareOptions 555
+FlareRingColor 0.3137 0.0784 0.0392
+FlareRingSize 0.22
+FlareRandStreakInt 0.03
+FlareRandStreakDens 50
+FlareRandStreakSharp 6
+ShadowType 0
+
+AddCamera
+CameraName Camera
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 106.59945 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.0896468 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 18.327724 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.0105454 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.015707966 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 2.2409913e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera2
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -20.347105 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 109.36028 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 108.68287 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.28448835 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 1.5638149 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 8
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera3
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -32.469921 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -6.2897124 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -0.091576472 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.28972459 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.0034906568 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 1.6625798e-012 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera4
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 51.444778 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -38.739105 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  6
+  Key -1.002087 0 0 0 0 0 0 -8.1060432e-005 0
+  Key -1.0021681 11.966666 0 0 0 0 -8.0837141e-005 0 0
+  Key -1.0021681 12 0 0 0 0 0.076386459 1.9582163 0
+  Key 0.98052597 14.666667 0 0 0 0 1.9582163 1.7162886 0
+  Key 0.98052597 14.7 0 0 0 0 2.2583538e-007 8.1074897e-005 0
+  Key 0.98060727 26.666666 0 0 0 0 8.1298851e-005 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 26.666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 26.666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera5
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -73.373535 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -4.7897124 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 72.892097 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera6
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 7.8314328 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.5500002 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -128.65349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.11519165 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 5.2213522e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 10000014
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera Close
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 10.990507 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.1102881 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 122.31139 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.7243849 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.17278758 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -2.6415492e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera Close2
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -50.024025 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.1102872 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 105.76461 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.17278758 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -1.3200401e-009 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera7
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  2
+  Key 32.791939 0 0 0 0 0 0 -297.11975 0
+  Key -264.32935 53.333332 0 0 0 0 -297.11975 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 6.2499995 0 0 0 0 0 0 0 0
+  Key 6.2499995 53.333332 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key -51.014244 0 0 0 0 0 0 36.567863 0
+  Key -14.44619 53.333332 0 0 0 0 36.567863 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.0349804 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -1.8626451e-009 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera8
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  2
+  Key 41.625141 0 0 0 0 0 0 -305.87646 0
+  Key -264.25293 53.333332 0 0 0 0 -305.87646 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 6.2897124 0 0 0 0 0 0 0 0
+  Key 6.2897124 53.333332 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key -13.274381 0 0 0 0 0 0 -1.9073386e-005 0
+  Key -13.2744 53.333332 0 0 0 0 -1.9073386e-005 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera8b
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -35.439743 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -1.2397766e-005 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 121.66727 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 2.693043 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Test Camera
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -236.76898 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 14.380003 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 17.415848 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -2.6022856 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.46949363 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera5b
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 38.519482 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -4.7897 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 100.16887 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.6772615 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.010471978 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 1
+AntiAliasingLevel 1
+ReconstructionFilter 0
+AdaptiveSampling 0
+
+BGImage
+{ Clip
+  { Still
+    "C:Models/Hermes/Space.JPG"
+  }
+  Flags 80
+}
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+GlowEffect 1
+GlowIntensity 0.5
+GlowRadius 8
+
+RenderMode 2
+RayTraceEffects 1
+DepthBufferAA 0
+RayRecursionLimit 16
+RayTraceOptimization 1
+DataOverlayLabel  
+SaveRGB 0
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewLevel 4
+ViewAimpoint -73.3735 -4.7897 0
+ViewZoomFactor 0.1182575
+
+GridNumber 0
+GridSize 1
+CameraViewBG 1
+ShowMotionPath 1
+ShowFogRadius 0
+ShowFogEffect 0
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor_fv 0 0 0
+
+CurrentObject 6
+CurrentLight 94
+CurrentCamera 9
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+}
+ImageEditorData
+NumberOfClips 55
+Clip 0
+{ ClipObject
+  "Thermal2.jpg"
+  128
+  0
+}
+Clip 1
+{ ClipObject
+  "Win2.jpg"
+  128
+  0
+}
+Clip 2
+{ ClipObject
+  "Win3.jpg"
+  128
+  0
+}
+Clip 3
+{ ClipObject
+  "Win4.jpg"
+  128
+  0
+}
+Clip 4
+{ ClipObject
+  "Win1.jpg"
+  128
+  0
+}
+Clip 5
+{ ClipObject
+  "Win5b.jpg"
+  128
+  0
+}
+Clip 6
+{ ClipObject
+  "Win5c.jpg"
+  128
+  0
+}
+Clip 7
+{ ClipObject
+  "wrinkled2.jpg"
+  128
+  0
+}
+Clip 8
+{ ClipObject
+  "Hull2.jpg"
+  128
+  0
+}
+Clip 9
+{ ClipObject
+  "HullEnds.jpg"
+  128
+  0
+}
+Clip 10
+{ ClipObject
+  "plate5.jpg"
+  128
+  0
+}
+Clip 11
+{ ClipObject
+  "FRGF_MidRes.jpg"
+  128
+  0
+}
+Clip 12
+{ ClipObject
+  "FRGF_MidRes_02.jpg"
+  128
+  0
+}
+Clip 13
+{ ClipObject
+  "ELC2_PumpMod_Fse_SideRt.jpg"
+  128
+  0
+}
+Clip 14
+{ ClipObject
+  "ELC1_BrushedMetal.jpg"
+  128
+  0
+}
+Clip 15
+{ ClipObject
+  "ELC2_CMG_Shroud_2.jpg"
+  128
+  0
+}
+Clip 16
+{ ClipObject
+  "ELC2_MLIBlanket.jpg"
+  128
+  0
+}
+Clip 17
+{ ClipObject
+  "ELC2_NTA_MLI_S2_CP1_Medium.jpg"
+  128
+  0
+}
+Clip 18
+{ ClipObject
+  "ELC2_NTA_MLI_S2_CP2_Med.jpg"
+  128
+  0
+}
+Clip 19
+{ ClipObject
+  "ELC2_NTA_MLI_S0_CP2_Medium.jpg"
+  128
+  0
+}
+Clip 20
+{ ClipObject
+  "ELC2_VLD_PumpMod_ORU.jpg"
+  128
+  0
+}
+Clip 21
+{ ClipObject
+  "AFRAM_BrushedMetal.jpg"
+  128
+  0
+}
+Clip 22
+{ ClipObject
+  "ELC2_DCSU_FRAMside.jpg"
+  128
+  0
+}
+Clip 23
+{ ClipObject
+  "MLI_new5.jpg"
+  128
+  0
+}
+Clip 24
+{ ClipObject
+  "MLI.jpg"
+  128
+  0
+}
+Clip 25
+{ ClipObject
+  "JemCap_FrmColumbus.jpg"
+  128
+  0
+}
+Clip 26
+{ ClipObject
+  "WhiteCover.JPG"
+  128
+  0
+}
+Clip 27
+{ ClipObject
+  "SA_NonSunside.jpg"
+  128
+  0
+}
+Clip 28
+{ ClipObject
+  "SolarPanel.jpg"
+  128
+  0
+}
+Clip 29
+{ ClipObject
+  "MLI_new.jpg"
+  128
+  0
+}
+Clip 30
+{ ClipObject
+  "BatterySide.jpg"
+  128
+  0
+}
+Clip 31
+{ ClipObject
+  "DDCUE_lwrs.jpg"
+  128
+  0
+}
+Clip 32
+{ ClipObject
+  "PCU_Top.jpg"
+  128
+  0
+}
+Clip 33
+{ ClipObject
+  "PCU_Mat.jpg"
+  128
+  0
+}
+Clip 34
+{ ClipObject
+  "PCU_SideMidStripe.jpg"
+  128
+  0
+}
+Clip 35
+{ ClipObject
+  "PCU_SideMat.jpg"
+  128
+  0
+}
+Clip 36
+{ ClipObject
+  "PCU_SideTarget.jpg"
+  128
+  0
+}
+Clip 37
+{ ClipObject
+  "PCU_SideMat2.jpg"
+  128
+  0
+}
+Clip 38
+{ ClipObject
+  "PCU_bottom.jpg"
+  128
+  0
+}
+Clip 39
+{ ClipObject
+  "MLI_new3.jpg"
+  128
+  0
+}
+Clip 40
+{ ClipObject
+  "DDCU_Mat.jpg"
+  128
+  0
+}
+Clip 41
+{ ClipObject
+  "DDCU_HP_Top1.jpg"
+  128
+  0
+}
+Clip 42
+{ ClipObject
+  "ATA_externalAdapter.jpg"
+  128
+  0
+}
+Clip 43
+{ ClipObject
+  "BatteryTop_lwrs.jpg"
+  128
+  0
+}
+Clip 44
+{ ClipObject
+  "NasaSign.jpg"
+  128
+  0
+}
+Clip 45
+{ ClipObject
+  "louvre.jpg"
+  128
+  0
+}
+Clip 46
+{ ClipObject
+  "Hull.jpg"
+  128
+  0
+}
+Clip 47
+{ ClipObject
+  "FuelTankGrid.jpg"
+  128
+  0
+}
+Clip 48
+{ ClipObject
+  "panels_grey.JPG"
+  128
+  0
+}
+Clip 49
+{ ClipObject
+  "OvalAft.jpg"
+  128
+  0
+}
+Clip 50
+{ ClipObject
+  "ThrusterBlock.jpg"
+  128
+  0
+}
+Clip 51
+{ ClipObject
+  "Hull3.jpg"
+  128
+  0
+}
+Clip 52
+{ ClipObject
+  "EarthAtmosRadil.jpg"
+  128
+  0
+}
+Clip 53
+{ ClipObject
+  "earth-from-space-nasa-wallpaper-3.jpg"
+  128
+  0
+}
+Clip 54
+{ ClipObject
+  "Space.JPG"
+  128
+  0
+}

@@ -1,0 +1,2575 @@
+LWSC
+3
+
+RenderRangeType 0
+FirstFrame 0
+LastFrame 1574
+FrameStep 1
+RenderRangeArbitrary 1-60
+PreviewFirstFrame 0
+PreviewLastFrame 1600
+PreviewFrameStep 1
+CurrentFrame 0
+FramesPerSecond 30
+
+LoadObjectLayer 1 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 69.973747 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000012
+ShadowOptions 7
+
+LoadObjectLayer 2 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 39.989792 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.2030349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000016
+ShadowOptions 7
+
+LoadObjectLayer 3 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 4 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 5 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 54.020302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.1961448 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000015
+ShadowOptions 7
+
+LoadObjectLayer 6 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000004
+ShadowOptions 7
+
+LoadObjectLayer 7 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 69.900154 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.2138369 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000013
+ShadowOptions 7
+
+LoadObjectLayer 8 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 9 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 10 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 11 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+LoadObjectLayer 12 C:Models/Hermes/Hermes.lwo
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Hermes
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Null1
+ShowObject 0 3
+ItemActive 0
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -150.86754 0 0 0 0 0 0 268.2485 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 6
+ShadowOptions 7
+
+AddNullObject Null Hab Ring
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key 0.07359314 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.2138369 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  3
+  Key -0.38397244 0 0 0 0 0 0 6.6671228 0
+  Key 6.283185 53.299999 0 0 0 0 12.558517 0 0
+  Key 12.182398 53.333332 0 0 0 0 6.2312579 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 40
+ParentItem 10000012
+ShadowOptions 7
+
+AddNullObject Null Orbit
+ShowObject 0 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -90.572746 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 6.2831521 0
+  Key 6.283185 53.299999 0 0 0 0 6.2831521 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 53.299999 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Null Solar
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -54.020302 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.1961448 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 3.7542036 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 40
+ParentItem 10000000
+ShadowOptions 7
+
+AddNullObject Null Dish
+ShowObject 7 3
+ObjectMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -39.989792 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.2030349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.55676013 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 47
+ParentItem 10000000
+ShadowOptions 7
+
+AmbientColor 1 1 1
+AmbientIntensity 0.05
+
+AddLight
+LightName Light
+ShowLight 0 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -2.0706711 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 195.5 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -255.15204 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.28099805 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.71907568 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 1.5
+AffectCaustics 1
+LightType 0
+ShadowType 1
+ShadowColor 0 0 0
+
+AddLight
+LightName Light2
+ShowLight 0 5
+LightMotion
+NumChannels 9
+Channel 0
+{ Envelope
+  1
+  Key -264.39752 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -32.5 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 227.64432 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -3.5011296 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.16057029 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 6
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 7
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 8
+{ Envelope
+  1
+  Key 1 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LightColor 1 1 1
+LightIntensity 0.5
+LightType 0
+ShadowType 0
+
+AddCamera
+CameraName Camera
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 106.59945 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -3.0896468 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 18.327724 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.0105454 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.015707966 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 2.2409913e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera2
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -20.347105 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 109.36028 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 108.68287 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -0.28448835 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 1.5638149 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 3.1415927 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 8
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera3
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -32.469921 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -6.2897124 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -0.091576472 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.28972459 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -0.0034906568 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 1.6625798e-012 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera4
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 51.444778 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -38.739105 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  6
+  Key -1.002087 0 0 0 0 0 0 -8.1060432e-005 0
+  Key -1.0021681 11.966666 0 0 0 0 -8.0837141e-005 0 0
+  Key -1.0021681 12 0 0 0 0 0.076386459 1.9582163 0
+  Key 0.98052597 14.666667 0 0 0 0 1.9582163 1.7162886 0
+  Key 0.98052597 14.7 0 0 0 0 2.2583538e-007 8.1074897e-005 0
+  Key 0.98060727 26.666666 0 0 0 0 8.1298851e-005 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 26.666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  2
+  Key 0 0 0 0 0 0 0 0 0
+  Key 0 26.666666 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera5
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -73.373535 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -4.7897124 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 72.892097 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera6
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 7.8314328 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 3.5500002 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key -128.65349 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 0.11519165 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 5.2213522e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 10000014
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera Close
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key 10.990507 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.1102881 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 122.31139 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.7243849 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.17278758 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -2.6415492e-010 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera Close2
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -50.024025 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key 2.1102872 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 105.76461 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0.17278758 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key -1.3200401e-009 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera7
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  2
+  Key 32.791939 0 0 0 0 0 0 -297.11975 0
+  Key -264.32935 53.333332 0 0 0 0 -297.11975 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 6.2499995 0 0 0 0 0 0 0 0
+  Key 6.2499995 53.333332 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key -51.014244 0 0 0 0 0 0 36.567863 0
+  Key -14.44619 53.333332 0 0 0 0 36.567863 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.0349804 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key -1.8626451e-009 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera8
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  2
+  Key 41.625141 0 0 0 0 0 0 -305.87646 0
+  Key -264.25293 53.333332 0 0 0 0 -305.87646 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  2
+  Key 6.2897124 0 0 0 0 0 0 0 0
+  Key 6.2897124 53.333332 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  2
+  Key -13.274381 0 0 0 0 0 0 -1.9073386e-005 0
+  Key -13.2744 53.333332 0 0 0 0 -1.9073386e-005 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key -1.2863077 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+AddCamera
+CameraName Camera8b
+ShowCamera 0 2
+CameraMotion
+NumChannels 6
+Channel 0
+{ Envelope
+  1
+  Key -35.439743 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 1
+{ Envelope
+  1
+  Key -1.2397766e-005 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 2
+{ Envelope
+  1
+  Key 121.66727 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 3
+{ Envelope
+  1
+  Key 2.693043 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 4
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+Channel 5
+{ Envelope
+  1
+  Key 0 0 0 0 0 0 0 0 0
+  Behaviors 1 1
+}
+
+LockedChannels 48
+ParentItem 30000009
+ZoomFactor 3.2
+ResolutionMultiplier 1.0
+FrameSize 1280 720
+PixelAspect 1
+MaskPosition 0 0 1280 720
+MotionBlur 0
+FieldRendering 0
+
+ApertureHeight 0.015
+Antialiasing 1
+AntiAliasingLevel 1
+ReconstructionFilter 0
+AdaptiveSampling 0
+
+BGImage
+{ Clip
+  { Still
+    "C:Models/Hermes/Space.JPG"
+  }
+  Flags 80
+}
+SolidBackdrop 1
+BackdropColor 0 0 0
+ZenithColor 0 0.1569 0.3137
+SkyColor 0.4706 0.7059 0.9412
+GroundColor 0.1961 0.1569 0.1176
+NadirColor 0.3922 0.3137 0.2353
+FogType 0
+DitherIntensity 1
+AnimatedDither 0
+GlowEffect 1
+GlowIntensity 0.5
+GlowRadius 8
+
+RenderMode 2
+RayTraceEffects 1
+DepthBufferAA 0
+RayRecursionLimit 16
+RayTraceOptimization 1
+DataOverlayLabel  
+SaveRGB 0
+SaveAlpha 0
+
+ViewConfiguration 0
+DefineView 0
+ViewType 9
+ViewLevel 4
+ViewAimpoint -77.68359 -0.4969653 0
+ViewZoomFactor 25.63425
+
+GridNumber 0
+GridSize 10
+CameraViewBG 1
+ShowMotionPath 1
+ShowFogRadius 0
+ShowFogEffect 0
+ShowSafeAreas 0
+ShowFieldChart 0
+OverlayColor_fv 0 0 0
+
+CurrentObject 20
+CurrentLight 1
+CurrentCamera 9
+GraphEditorData
+{ GraphEd_Favorites
+}
+{ GE_Expression_Lib
+  1
+}
+ImageEditorData
+NumberOfClips 58
+Clip 0
+{ ClipObject
+  "Thermal2.jpg"
+  128
+  0
+}
+Clip 1
+{ ClipObject
+  "Win2.jpg"
+  128
+  0
+}
+Clip 2
+{ ClipObject
+  "Win3.jpg"
+  128
+  0
+}
+Clip 3
+{ ClipObject
+  "Win4.jpg"
+  128
+  0
+}
+Clip 4
+{ ClipObject
+  "Win1.jpg"
+  128
+  0
+}
+Clip 5
+{ ClipObject
+  "Win5b.jpg"
+  128
+  0
+}
+Clip 6
+{ ClipObject
+  "Win5c.jpg"
+  128
+  0
+}
+Clip 7
+{ ClipObject
+  "wrinkled2.jpg"
+  128
+  0
+}
+Clip 8
+{ ClipObject
+  "Hull2.jpg"
+  128
+  0
+}
+Clip 9
+{ ClipObject
+  "HullEnds.jpg"
+  128
+  0
+}
+Clip 10
+{ ClipObject
+  "plate5.jpg"
+  128
+  0
+}
+Clip 11
+{ ClipObject
+  "FRGF_MidRes.jpg"
+  128
+  0
+}
+Clip 12
+{ ClipObject
+  "FRGF_MidRes_02.jpg"
+  128
+  0
+}
+Clip 13
+{ ClipObject
+  "ELC2_PumpMod_Fse_SideRt.jpg"
+  128
+  0
+}
+Clip 14
+{ ClipObject
+  "ELC1_BrushedMetal.jpg"
+  128
+  0
+}
+Clip 15
+{ ClipObject
+  "ELC2_CMG_Shroud_2.jpg"
+  128
+  0
+}
+Clip 16
+{ ClipObject
+  "ELC2_MLIBlanket.jpg"
+  128
+  0
+}
+Clip 17
+{ ClipObject
+  "ELC2_NTA_MLI_S2_CP1_Medium.jpg"
+  128
+  0
+}
+Clip 18
+{ ClipObject
+  "ELC2_NTA_MLI_S2_CP2_Med.jpg"
+  128
+  0
+}
+Clip 19
+{ ClipObject
+  "ELC2_NTA_MLI_S0_CP2_Medium.jpg"
+  128
+  0
+}
+Clip 20
+{ ClipObject
+  "ELC2_VLD_PumpMod_ORU.jpg"
+  128
+  0
+}
+Clip 21
+{ ClipObject
+  "AFRAM_BrushedMetal.jpg"
+  128
+  0
+}
+Clip 22
+{ ClipObject
+  "ELC2_DCSU_FRAMside.jpg"
+  128
+  0
+}
+Clip 23
+{ ClipObject
+  "MLI_new5.jpg"
+  128
+  0
+}
+Clip 24
+{ ClipObject
+  "MLI.jpg"
+  128
+  0
+}
+Clip 25
+{ ClipObject
+  "JemCap_FrmColumbus.jpg"
+  128
+  0
+}
+Clip 26
+{ ClipObject
+  "WhiteCover.JPG"
+  128
+  0
+}
+Clip 27
+{ ClipObject
+  "SA_NonSunside.jpg"
+  128
+  0
+}
+Clip 28
+{ ClipObject
+  "SolarPanel.jpg"
+  128
+  0
+}
+Clip 29
+{ ClipObject
+  "MLI_new.jpg"
+  128
+  0
+}
+Clip 30
+{ ClipObject
+  "BatterySide.jpg"
+  128
+  0
+}
+Clip 31
+{ ClipObject
+  "DDCUE_lwrs.jpg"
+  128
+  0
+}
+Clip 32
+{ ClipObject
+  "PCU_Top.jpg"
+  128
+  0
+}
+Clip 33
+{ ClipObject
+  "PCU_Mat.jpg"
+  128
+  0
+}
+Clip 34
+{ ClipObject
+  "PCU_SideMidStripe.jpg"
+  128
+  0
+}
+Clip 35
+{ ClipObject
+  "PCU_SideMat.jpg"
+  128
+  0
+}
+Clip 36
+{ ClipObject
+  "PCU_SideTarget.jpg"
+  128
+  0
+}
+Clip 37
+{ ClipObject
+  "PCU_SideMat2.jpg"
+  128
+  0
+}
+Clip 38
+{ ClipObject
+  "PCU_bottom.jpg"
+  128
+  0
+}
+Clip 39
+{ ClipObject
+  "MLI_new3.jpg"
+  128
+  0
+}
+Clip 40
+{ ClipObject
+  "DDCU_Mat.jpg"
+  128
+  0
+}
+Clip 41
+{ ClipObject
+  "DDCU_HP_Top1.jpg"
+  128
+  0
+}
+Clip 42
+{ ClipObject
+  "ATA_externalAdapter.jpg"
+  128
+  0
+}
+Clip 43
+{ ClipObject
+  "BatteryTop_lwrs.jpg"
+  128
+  0
+}
+Clip 44
+{ ClipObject
+  "NasaSign.jpg"
+  128
+  0
+}
+Clip 45
+{ ClipObject
+  "louvre.jpg"
+  128
+  0
+}
+Clip 46
+{ ClipObject
+  "Hull.jpg"
+  128
+  0
+}
+Clip 47
+{ ClipObject
+  "FuelTankGrid.jpg"
+  128
+  0
+}
+Clip 48
+{ ClipObject
+  "panels_grey.JPG"
+  128
+  0
+}
+Clip 49
+{ ClipObject
+  "OvalAft.jpg"
+  128
+  0
+}
+Clip 50
+{ ClipObject
+  "ThrusterBlock.jpg"
+  128
+  0
+}
+Clip 51
+{ ClipObject
+  "Hull3.jpg"
+  128
+  0
+}
+Clip 52
+{ ClipObject
+  "EarthAtmosRadil.jpg"
+  128
+  0
+}
+Clip 53
+{ ClipObject
+  "EarthAtmosOpas.jpg"
+  128
+  0
+}
+Clip 54
+{ ClipObject
+  "BlueSkyGrad1.jpg"
+  128
+  0
+}
+Clip 55
+{ ClipObject
+  "Blk2Wht1.jpg"
+  128
+  0
+}
+Clip 56
+{ ClipObject
+  "earth-from-space-nasa-wallpaper-3.jpg"
+  128
+  0
+}
+Clip 57
+{ ClipObject
+  "Space.JPG"
+  128
+  0
+}
