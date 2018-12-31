@@ -13,7 +13,7 @@ To detect these MMOD impacts a extendable sensor platform can be placed in a pos
 With this solution only electrical power is needed to change the attitude and thus the field of view of the lidar.
 
 This system is very simple and can easily safe lifes.
-Project Idea
+## Project Idea
 
 Every long range flight in space will have a wheel habitat for artificial gravity with the intention to overcome the psychological challenges of the people. This wheel is constantly rotating around the axis, which is used for the most surface of the spacecraft and the moving direction.
 
